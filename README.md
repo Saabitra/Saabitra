@@ -1,4 +1,4 @@
-[![MasterHead](https://saabitrabera.blogspot.com/2022/12/logoanimation.html)]
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLh7I1_uQO7Mc_hn1CroJKuk6VV_EUKUou71cDapbaUaVNFVKEK0Zs3PKOIfpW-QUWQBnOMwavNALXLBoEUUFtKXUSIBdG75fIpi6qsMibKd7IxTclf9wkIlFRjcy6yaG7C86fRUM9rN-LykCn4fqQpwuEZNTWWbKsTJxul91XZHHvxqV0yWsIQ-3o/s1280/sb_logo_1.gif)]
 <h1 align="center">Hi there people👋, I'm Saabitra Bera.</h1>
 <h3 align="center">Currently studying Computer Science and Technology (CST) from University of Engineering and Management, Kolkata (UEMK)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
