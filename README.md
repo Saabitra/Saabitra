@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saabitra&label=Profile%20views&color=0e75b6&style=flat" alt="saabitra" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saabitrab" target="blank"><img src="https://img.shields.io/twitter/follow/saabitrab?logo=twitter&style=for-the-badge" alt="saabitrab" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SaabitraBera" target="blank"><img src="https://img.shields.io/twitter/follow/saabitrab?logo=twitter&style=for-the-badge" alt="SaabitraBera" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Application Development in Android Studio.**
 
