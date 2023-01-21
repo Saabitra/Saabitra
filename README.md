@@ -39,3 +39,5 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=saabitra&" alt="saabitra" /></p>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saabitra&show_icons=true&locale=en&layout=compact" alt="saabitra" /></p>
+
+![Snake animation](https://github.com/Saabitra/Saabitra/blob/output/github-contribution-grid-snake.svg)
